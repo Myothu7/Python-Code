@@ -1,6 +1,3 @@
-import json
-
-
 class Account_Note:
     def __init__(self):
         self.note = {}
